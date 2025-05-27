@@ -1,0 +1,921 @@
+10002.pdf
+10003.pdf
+10004.pdf
+10005.pdf
+10009.pdf
+10010.pdf
+10017.pdf
+10018.pdf
+10019.pdf
+10020.pdf
+10021.pdf
+10022.pdf
+10023.pdf
+10024.pdf
+10025.pdf
+10026.pdf
+10027a.pdf     <-- "12027" appears as "12027a.pdf" in the HTML
+10028.pdf
+10029.pdf
+10031.pdf
+10032.pdf
+10044.pdf
+10045.pdf
+10046.pdf
+10047.pdf
+10048.pdf
+10049.pdf
+10050.pdf
+10056.pdf
+10057.pdf
+10058.pdf
+10059.pdf
+10060.pdf
+10061.pdf
+10062.pdf
+10063.pdf
+10064.pdf
+10065.pdf
+(“10066” links to 10019.pdf in the HTML, so 10066.pdf does not exist)
+10067.pdf
+10068.pdf
+10069.pdf
+10070.pdf
+10071.pdf
+10072.pdf
+10073.pdf
+10074.pdf
+10075.pdf
+10082.pdf
+10084.pdf
+10085.pdf
+10086.pdf
+10091.pdf
+10092.pdf
+10093.pdf
+10094.pdf
+
+12001.pdf
+12002.pdf
+12003.pdf
+12004.pdf
+12005.pdf
+12006.pdf
+12007.pdf
+12008.pdf
+12009.pdf
+12010.pdf
+12011.pdf
+12012.pdf
+12013.pdf
+12014.pdf
+12015.pdf
+12016.pdf
+12017.pdf
+12018.pdf
+12019.pdf
+12020.pdf
+12021.pdf
+12022.pdf
+12023.pdf
+(“12024” links to 12023.pdf, so 12024.pdf does not appear)
+12026.pdf
+12027a.pdf     <-- from the “core” section
+12028.pdf
+12029.pdf
+12030.pdf
+12031.pdf
+12032.pdf
+12033.pdf
+12034.pdf
+12035.pdf
+12036.pdf
+12037.pdf
+12038.pdf
+12039.pdf
+12040.pdf
+12041.pdf
+12042.pdf
+12043.pdf
+12044.pdf
+12045.pdf
+12046.pdf
+12047.pdf
+12051.pdf
+12052.pdf
+12053.pdf
+12054.pdf
+12055.pdf
+12056.pdf
+12057.pdf
+12060.pdf
+12061.pdf
+12062.pdf
+12063.pdf
+12064.pdf
+12065.pdf
+12070.pdf
+12072.pdf
+12073.pdf
+12075.pdf
+12076.pdf
+12077.pdf
+
+14003.pdf
+14006.pdf
+14042.pdf
+14047.pdf
+14049.pdf
+14051.pdf
+14053.pdf
+14055.pdf
+14056.pdf
+14063.pdf
+14066.pdf
+14068.pdf
+14070.pdf
+14071.pdf
+14072.pdf
+14073.pdf
+14076.pdf
+14078.pdf
+14168.pdf
+14169.pdf
+14179.pdf
+14181.pdf
+
+14255.pdf
+14264.pdf
+14265.pdf
+14267.pdf
+14270.pdf
+14271.pdf
+14272.pdf
+14274.pdf
+14276.pdf
+
+14301.pdf
+14303.pdf
+14304.pdf
+14305.pdf
+14306.pdf
+14307.pdf
+14309.pdf
+14310.pdf
+14311.pdf
+14312.pdf
+14313.pdf
+14314.pdf
+14315.pdf
+14316.pdf
+14317.pdf
+14318.pdf
+14319.pdf
+14320.pdf
+14321.pdf
+
+15015.pdf
+15016r.pdf
+15025.pdf
+15028.pdf
+15030.pdf
+15040.pdf   <-- “15040” links to the same PDF as 15030 in the HTML (15030.pdf)
+15058c.pdf
+15059.pdf
+15065r.pdf
+15071.pdf
+15075r.pdf
+15076r.pdf
+15081.pdf   <-- shares PDF with 15071? (some duplicates point to 15071.pdf)
+15085r.pdf
+15086.pdf
+15091.pdf
+15095.pdf
+15100.pdf
+15105r.pdf
+15115.pdf
+15116r.pdf
+15117r.pdf
+15118r.pdf
+15119r.pdf
+15125r.pdf
+
+15205.pdf
+15206.pdf
+15211.pdf
+15221.pdf
+15231.pdf
+15241.pdf
+15251.pdf
+15255.pdf
+15256r.pdf
+15257.pdf    <-- also links to 15255.pdf in the HTML
+15261.pdf
+15265.pdf
+15271.pdf
+15285.pdf
+15286.pdf
+15287.pdf
+15288.pdf
+15295.pdf
+15297.pdf
+15298.pdf
+15299.pdf
+
+15301.pdf
+15306.pdf
+15307.pdf
+15308.pdf
+15311.pdf
+15315.pdf   <-- links to 15306.pdf in the HTML
+15324.pdf   <-- links to 15306.pdf
+15325.pdf   <-- links to 15306.pdf
+15330.pdf   <-- links to 15306.pdf
+15356.pdf
+15357.pdf
+15359.pdf
+15362.pdf
+15379r.pdf
+15382.pdf
+15385.pdf
+15386.pdf
+15388.pdf
+
+15401.pdf
+15405.pdf
+15410.pdf
+15415.pdf
+15418.pdf
+15420.pdf  <-- shares PDF with 15410? (some lines are duplicates)
+15425.pdf
+15431.pdf
+15435.pdf
+15436.pdf
+15445.pdf
+15455.pdf
+15459.pdf
+15465.pdf
+15471.pdf
+15475.pdf
+15476.pdf
+15486.pdf
+15495.pdf
+15498.pdf
+15499.pdf
+
+15501.pdf
+15505.pdf
+15506.pdf
+15507.pdf
+15508.pdf  <-- also uses 15506.pdf in the HTML
+15511.pdf  <-- also uses 15501.pdf
+15515.pdf
+15529.pdf
+15531.pdf  <-- also uses 15501.pdf
+15535.pdf
+15545.pdf
+15546r.pdf
+15546r.pdf  <-- repeated in HTML
+15547.pdf  <-- also uses 15546r.pdf?
+15555r.pdf
+15556r.pdf
+15557.pdf
+15558.pdf
+15565.pdf
+15595.pdf
+15597.pdf
+15598.pdf
+
+15601.pdf
+15605.pdf
+15608.pdf
+15610.pdf  <-- some lines in HTML link 15610 → 15633.pdf?
+15614.pdf
+15620.pdf  <-- also uses 15614.pdf
+15622.pdf  <-- also uses 15614.pdf
+15623.pdf  <-- also uses 15614.pdf
+15630.pdf  <-- also uses 15614.pdf
+15633.pdf
+15634.pdf
+15636.pdf
+15639.pdf
+15641.pdf  <-- also uses 15633.pdf
+15643.pdf  <-- also uses 15633.pdf
+15647r.pdf
+15648.pdf
+15649.pdf  <-- also uses 15648.pdf
+15651.pdf
+15658.pdf
+15659.pdf
+15661.pdf
+15662.pdf
+15663.pdf  <-- also uses 15633.pdf
+15665.pdf
+15666.pdf
+15669.pdf  <-- also uses 15665.pdf
+15672.pdf  <-- also uses 15659.pdf?
+15674.pdf
+15675.pdf  <-- also uses 15674.pdf
+15676.pdf  <-- also uses 15674.pdf
+15678.pdf  <-- also uses 15674.pdf
+15682.pdf
+15683.pdf  <-- also uses 15674.pdf
+15695.pdf
+15696.pdf  <-- also uses 15695.pdf
+15697.pdf  <-- also uses 15695.pdf
+15698.pdf
+
+60010.pdf
+60014.pdf
+60015.pdf
+60016.pdf
+60017.pdf
+60018.pdf
+60019.pdf
+60025.pdf
+60035.pdf
+60050.pdf
+60075.pdf
+60095.pdf
+60115.pdf
+60135.pdf
+60215.pdf
+60235.pdf
+60255.pdf
+60275.pdf
+60315.pdf
+60335.pdf
+60500.pdf
+60515.pdf
+60516.pdf
+60517.pdf
+60518.pdf
+60519.pdf
+60525.pdf
+60526.pdf
+60535.pdf
+60600.pdf
+60615.pdf
+60618.pdf
+60619.pdf
+60625.pdf
+60626.pdf
+60627.pdf
+60629.pdf
+60635.pdf
+60636.pdf
+60637.pdf
+60639.pdf
+60645.pdf
+60659.pdf
+60665.pdf
+60666.pdf
+60677.pdf
+
+61015.pdf
+61016.pdf
+61135.pdf
+61140.pdf  <-- links to 61181.pdf in the HTML
+61155.pdf
+61156.pdf
+61160.pdf  <-- also links to 61181.pdf
+61175.pdf
+61181.pdf
+61195.pdf
+
+61221.pdf
+61224.pdf  <-- note this appears once in the basalt table
+61225.pdf
+61240.pdf  <-- also uses 61221.pdf
+61281.pdf
+61295.pdf
+
+61500.pdf
+61515.pdf
+61516.pdf
+61517.pdf  <-- also uses 61516.pdf
+61518.pdf  <-- also uses 61516.pdf
+61519.pdf  <-- also uses 61516.pdf
+61525.pdf
+61526.pdf  <-- also uses 61525.pdf
+61527.pdf  <-- also uses 61525.pdf
+61528.pdf  <-- also uses 61525.pdf
+61529.pdf  <-- also uses 61525.pdf
+61536.pdf
+61546.pdf
+61547.pdf
+61548.pdf  <-- also uses 61547.pdf
+61549.pdf
+61568.pdf
+61569.pdf
+
+62231.pdf  <-- soil references
+62235.pdf
+62236.pdf
+62237.pdf
+62255.pdf
+62275.pdf
+62281.pdf
+62295.pdf
+
+63320.pdf
+63335.pdf
+63355.pdf
+
+63501.pdf
+63506.pdf
+63507.pdf
+63525.pdf
+63526.pdf  <-- also uses 63525.pdf
+63528.pdf  <-- also uses 63525.pdf
+63529.pdf
+63535.pdf
+63538.pdf
+63539.pdf  <-- some lines are 63548 → 63539.pdf, etc.
+63545.pdf
+63548.pdf
+63549.pdf
+63555.pdf  <-- also uses 63525.pdf?
+63556.pdf
+63557.pdf  <-- also uses 63529.pdf?
+63559.pdf
+63565.pdf  <-- also uses 63559.pdf?
+63566.pdf
+63567.pdf  <-- also uses 63559.pdf?
+63568.pdf  <-- also uses 63559.pdf?
+63575.pdf  <-- also uses 63566.pdf?
+63576.pdf  <-- also uses 63559.pdf?
+63578.pdf
+63585.pdf
+63586.pdf  <-- also uses 63548.pdf?
+63587.pdf
+63588.pdf  <-- also uses 63595.pdf?
+63595.pdf
+63596.pdf
+63597.pdf  <-- also uses 63598.pdf?
+63598.pdf
+
+64002.pdf
+
+64420.pdf
+64425.pdf
+64435.pdf
+64455.pdf
+64475.pdf
+64476.pdf  <-- also uses 64475.pdf
+64477.pdf
+64478.pdf
+
+64501.pdf
+64535.pdf
+64536.pdf  <-- also uses 64535.pdf
+64537.pdf  <-- also uses 64535.pdf
+64538.pdf
+64539.pdf
+64545.pdf  <-- also uses 64539.pdf
+64546.pdf  <-- also uses 64539.pdf
+64547.pdf  <-- also uses 64539.pdf
+64548.pdf
+64549.pdf  <-- also uses 64539.pdf
+64555.pdf  <-- also uses 64539.pdf
+64556.pdf  <-- also uses 64539.pdf
+64557.pdf  <-- also uses 64539.pdf
+64558.pdf  <-- also uses 64539.pdf
+64559.pdf
+64566.pdf
+64567.pdf
+64568.pdf
+64569.pdf  <-- also uses 64567.pdf
+64576.pdf
+64585.pdf
+
+64801.pdf
+64815.pdf
+64816.pdf
+64817.pdf
+64818.pdf
+64825.pdf
+64826.pdf  <-- also uses 64825.pdf
+64827.pdf  <-- also uses 64825.pdf
+64828.pdf  <-- also uses 64825.pdf
+64829.pdf  <-- also uses 64825.pdf
+64835.pdf  <-- also uses 64825.pdf
+64836.pdf  <-- also uses 64825.pdf
+64837.pdf  <-- also uses 64825.pdf
+
+65015.pdf
+65016.pdf
+65035.pdf
+65055.pdf
+65056.pdf
+65075.pdf
+65095.pdf
+
+65315.pdf
+65325.pdf
+65326.pdf
+65327.pdf  <-- also uses 65325.pdf
+65357.pdf
+65358.pdf  <-- also uses 65357.pdf
+
+65501.pdf
+65515.pdf
+65516.pdf  <-- also uses 65515.pdf
+65517.pdf  <-- also uses 65515.pdf
+65518.pdf  <-- also uses 65515.pdf
+65519.pdf  <-- also uses 65515.pdf
+65525.pdf
+
+65701.pdf
+65715.pdf
+65745.pdf
+65757.pdf
+65767.pdf
+65777.pdf
+65778.pdf  <-- also uses 65777.pdf
+65779.pdf
+65785.pdf
+65786.pdf
+65787.pdf  <-- also uses 65786.pdf
+65795.pdf
+
+65901.pdf
+65905.pdf
+65925.pdf
+65926.pdf  <-- also uses 65925.pdf
+65927.pdf  <-- also uses 65925.pdf
+
+66031.pdf
+66035.pdf
+66036.pdf  <-- also uses 66035.pdf
+66037.pdf  <-- also uses 66035.pdf
+66041.pdf
+66055.pdf
+66075.pdf
+66081.pdf
+66095.pdf
+
+67015.pdf
+67016.pdf
+67025.pdf
+67031.pdf
+67035.pdf
+67055.pdf
+67075.pdf
+67095.pdf
+67115.pdf
+
+67215.pdf
+67235.pdf
+
+67415.pdf
+67435.pdf
+67455.pdf
+67461.pdf
+67475.pdf
+67481.pdf
+67485.pdf
+67515.pdf
+67516.pdf  <-- also uses 67515.pdf
+67517.pdf  <-- also uses 67515.pdf
+67518.pdf  <-- also uses 67515.pdf
+67519.pdf  <-- also uses 67515.pdf
+67529.pdf
+67546.pdf
+67549.pdf
+67556.pdf
+67559.pdf
+67565.pdf
+67566.pdf
+67567.pdf
+67568.pdf
+67569.pdf
+67601.pdf
+67605.pdf
+67615.pdf
+67617.pdf
+67626.pdf
+67627.pdf
+67628.pdf
+67629.pdf  <-- also uses 67627.pdf
+67635.pdf
+67636.pdf
+67637.pdf
+67647.pdf
+67667.pdf
+67668.pdf  <-- also uses 67565.pdf (per the HTML references)
+67685.pdf
+67686.pdf  <-- also uses 67628.pdf
+67687.pdf  <-- also uses 67628.pdf
+67688.pdf  <-- also uses 67628.pdf
+67695.pdf  <-- also uses 67627.pdf
+67696.pdf  <-- also uses 67627.pdf
+67697.pdf  <-- also uses 67627.pdf
+
+67715.pdf
+67716.pdf  <-- also uses 67715.pdf
+67718.pdf
+67719.pdf  <-- also uses 67718.pdf
+67728.pdf
+67729.pdf
+67736.pdf
+67739.pdf
+67746.pdf
+67747.pdf
+67749.pdf
+67756.pdf
+67757.pdf
+67759.pdf
+67766.pdf
+67769.pdf
+67775.pdf
+
+67915.pdf
+67935.pdf
+67941rev.pdf  <-- “67941” is 5 digits + "rev"
+67945.pdf
+67946.pdf  <-- also uses 67728.pdf
+67947.pdf
+67948.pdf
+67975.pdf
+
+68001.pdf
+68002.pdf
+68035.pdf
+68115.pdf
+68121.pdf
+68415.pdf
+68501.pdf
+68515.pdf
+68516.pdf
+68518.pdf
+68519.pdf
+68525.pdf
+68526.pdf  <-- also uses 68525.pdf
+68527.pdf  <-- also uses 68525.pdf
+68535.pdf
+68536.pdf  <-- also uses 68535.pdf
+
+68815.pdf
+68821.pdf
+68841.pdf
+68845.pdf
+68846.pdf  <-- also uses 68845.pdf
+68847.pdf  <-- also uses 68845.pdf
+
+69001.pdf
+69921.pdf
+69935.pdf
+69945.pdf
+69955.pdf
+
+70009.pdf
+70011.pdf
+70012.pdf
+70017.pdf
+70018.pdf
+70019.pdf
+70035.pdf
+70050.pdf
+70060.pdf
+70075.pdf
+70135.pdf
+70139.pdf
+70147.pdf
+70161.pdf
+70170.pdf
+70175.pdf
+70180.pdf
+70181.pdf
+70185.pdf
+70215.pdf
+70255.pdf
+70271.pdf
+70275.pdf
+70295.pdf
+70311.pdf
+
+71035.pdf
+71036.pdf
+71037.pdf
+71041.pdf
+71055.pdf
+71065.pdf
+71131.pdf
+71135.pdf
+71155.pdf
+71175.pdf
+
+71500.pdf
+71505.pdf
+71509.pdf  <-- actually uses 71556.pdf in HTML
+71525.pdf
+71536.pdf
+71537.pdf
+71539.pdf
+71546.pdf
+71548.pdf
+71549.pdf
+71555.pdf  <-- also uses 71546.pdf
+71556.pdf
+71557.pdf
+71559.pdf
+71565.pdf
+71566.pdf
+71567.pdf
+71568.pdf  <-- also uses 71559.pdf
+71569.pdf
+71576.pdf  <-- also uses 71595.pdf?
+71577.pdf
+71578.pdf  <-- also uses 71577.pdf
+71586.pdf
+71587.pdf
+71588.pdf
+71595.pdf
+71596.pdf
+
+72131.pdf
+72135.pdf
+72141.pdf
+72150.pdf
+72155.pdf
+72161.pdf
+
+72215.pdf
+72221.pdf
+72235.pdf
+72255.pdf
+72270.pdf
+72275.pdf
+72295.pdf  <-- also appears once
+
+72315.pdf
+72320.pdf
+72335.pdf
+72355.pdf
+72375.pdf
+72395.pdf
+
+72431.pdf
+72435.pdf
+72441.pdf
+
+72501.pdf
+72535.pdf
+72539.pdf
+72548.pdf
+72555.pdf
+72558.pdf
+
+72701.pdf
+72735.pdf
+72736.pdf
+72738.pdf
+
+73001.pdf
+73121.pdf
+73131.pdf
+73151.pdf
+73155.pdf
+
+73211.pdf
+73215.pdf
+73216.pdf
+73217.pdf
+73218.pdf
+73221.pdf
+73235.pdf
+73255.pdf
+73275.pdf
+
+74002.pdf
+74111.pdf
+74115.pdf
+74121.pdf
+
+74220.pdf
+74235.pdf
+74241.pdf
+74245.pdf
+74250.pdf
+74255.pdf
+74275.pdf
+
+75015.pdf
+75035.pdf
+75055.pdf
+75061.pdf
+75075.pdf
+75081.pdf
+75085.pdf
+
+76001.pdf
+76015.pdf
+76031.pdf
+76035.pdf
+76055.pdf
+
+76121.pdf
+76131.pdf
+76135.pdf
+76136.pdf
+
+76215.pdf
+76221.pdf
+76235.pdf
+76240.pdf
+76245.pdf
+76246.pdf
+76255.pdf
+76275.pdf
+76295.pdf
+
+76315.pdf
+76321.pdf
+76330.pdf
+76335.pdf
+
+76501.pdf
+76535.pdf
+76536.pdf
+76537.pdf
+76539.pdf
+76545.pdf
+76565.pdf
+76575.pdf
+76577.pdf
+
+77017.pdf
+77035.pdf
+77115.pdf
+77135.pdf
+
+77515.pdf
+77516.pdf
+77517.pdf
+77518.pdf
+77519.pdf
+77531.pdf
+77535.pdf
+77536.pdf
+77537.pdf
+77538.pdf
+77539.pdf
+77545.pdf
+
+78135.pdf
+78155.pdf
+
+78215.pdf  <-- if it appears? (Check: might be a partial reference. Possibly not in the HTML.)
+78221.pdf
+78231.pdf
+78235.pdf
+78236.pdf
+78238.pdf
+78250.pdf
+78255.pdf
+
+78421.pdf
+78440.pdf  <-- also uses 78421.pdf
+78460.pdf  <-- also uses 78421.pdf
+78480.pdf  <-- also uses 78421.pdf
+
+78501.pdf
+78505.pdf
+78526.pdf
+78527.pdf
+78535.pdf
+78546.pdf
+78548.pdf
+78555.pdf
+78568.pdf
+78575.pdf
+78578.pdf
+78585.pdf
+78587.pdf
+78597.pdf
+78598.pdf
+78599.pdf
+
+79035.pdf
+79115.pdf
+79121.pdf
+79135.pdf
+79155.pdf
+79170.pdf
+79175.pdf
+79195.pdf
+
+79215.pdf
+79221.pdf
+79240.pdf
+79260.pdf
+
+79515.pdf
+79516.pdf
+
+(Also “Luna21020.pdf”, “Luna24170.pdf”, “Luna16Core.pdf”, etc. are **not** purely 5-digit sample numbers, so they are excluded from the above.)
+
+15358.pdf
+60600.pdf
+61224.pdf

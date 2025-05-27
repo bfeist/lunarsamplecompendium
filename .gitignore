@@ -1,0 +1,5 @@
+# Ignore the output directory
+output/
+
+mediawiki-docker/
+pdfs/
