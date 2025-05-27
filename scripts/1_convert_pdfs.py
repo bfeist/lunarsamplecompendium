@@ -67,6 +67,15 @@ def convert_pdfs_in_folder(pdf_folder_path, base_output_path):
 
 # Example usage
 if __name__ == "__main__":
-    pdf_folder_path = "d:/lsc/pdfs/"
-    base_output_path = "d:/lsc/md_output/"
+     # Get the directory of the current script
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+
+    # Define paths relative to the script directory
+    pdf_folder_path = os.path.join(script_dir, "..", "pdfs")
+    base_output_path = os.path.join(script_dir, "..", "output", "md_output")
+    
+    # Normalize paths to ensure correct format (e.g., slashes)
+    pdf_folder_path = os.path.normpath(pdf_folder_path)
+    base_output_path = os.path.normpath(base_output_path)
+    
     convert_pdfs_in_folder(pdf_folder_path, base_output_path)
