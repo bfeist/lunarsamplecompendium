@@ -1,5 +1,4 @@
 import os
-import torch
 import json
 import glob
 from marker.converters.pdf import PdfConverter
@@ -12,13 +11,21 @@ def setup_converter():
         "output_format": "markdown",
         "extract_images": True,
         "output_folder": None,  # placeholder, set later
-        "debug": True
+        "debug": False
     }
     config_parser = ConfigParser(config)
-    if torch.cuda.is_available():
-        print("Using GPU for processing.")
-    else:
-        print("GPU not available, using CPU.")
+    
+    # Check for GPU availability (optional, import only when needed)
+    try:
+        import torch
+        if torch.cuda.is_available():
+            print("Using GPU for processing.")
+        else:
+            print("GPU not available, using CPU.")
+    except Exception as e:
+        print(f"Could not check GPU availability: {e}")
+        print("Proceeding with CPU.")
+    
     return PdfConverter(
         config=config_parser.generate_config_dict(),
         artifact_dict=create_model_dict(),
