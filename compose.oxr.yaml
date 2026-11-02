@@ -1,0 +1,25 @@
+services:
+  oxr:
+    image: lsc-oxr:c1a1dcb
+    build:
+      context: .local/oxr
+      dockerfile: docker/Dockerfile.allinone
+    ports:
+      - "127.0.0.1:8010:8000"
+    gpus: all
+    ipc: host
+    environment:
+      VLLM_GPU_MEMORY_UTILIZATION: "0.60"
+      VLLM_MAX_MODEL_LEN: "16384"
+      VLLM_EXTRA_ARGS: "--enforce-eager"
+      # The V2 runner requires UVA, which is unavailable in this WSL2 runtime.
+      VLLM_USE_V2_MODEL_RUNNER: "0"
+      DFINE_CUDA_GRAPH: "0"
+      OXR__OXR_MODEL__MAX_CONCURRENCY: "2"
+      OXR__LAYOUT_ANALYZE_MODEL__BATCH_SIZE: "1"
+      OXR__LAYOUT_ANALYZE_MODEL__MAX_CONCURRENCY: "1"
+      ALLINONE_STARTUP_TIMEOUT: "900"
+    volumes:
+      - ./.local/models/OXR-1.0:/models/oxr-model:ro
+      - ./.local/oxr-cache:/root/.cache
+      - ./.local/oxr-assets:/app/outputs

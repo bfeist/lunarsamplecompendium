@@ -1,4 +1,6 @@
 .venv/
+.local/
+__pycache__/
 
 output/
 mediawiki-docker/

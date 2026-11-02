@@ -1,0 +1,5 @@
+# Page-level diagnostic client only (3_convert_pdfs_oxr.py).
+# The primary whole-document client uses only the Python standard library.
+pypdfium2>=4.30,<6
+beautifulsoup4>=4.12,<5
+Pillow>=9.0
