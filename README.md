@@ -62,6 +62,36 @@ The script utilizes the `marker-pdf` library for the conversion process and can 
 
     The script will automatically detect and use a GPU if available. If not, it will fall back to using the CPU. Processed files will be saved in the `output/md_output` directory, with each PDF's output in its own subfolder.
 
+## Prepare table repair candidates with LM Studio
+
+`scripts/2_prepare_table_repairs.py` generates candidate tables for review. It
+preserves `output/md_output`; dense tables still need numerical and attribution
+checks against the original page.
+
+With Chandra OCR 2 BF16 and its vision projector installed, run in PowerShell:
+
+```powershell
+lms server start
+lms load chandra-ocr-2 --identifier lsc-table-repair --context-length 32768 --parallel 1 --gpu max --yes
+python scripts/2_prepare_table_repairs.py --all
+```
+
+Python needs `pypdfium2` and `beautifulsoup4`. The command selects pages marked
+`Table` in saved metadata (1,510 pages in the audited corpus), disables reasoning,
+and writes candidates, source images and raw responses under `output/table_repair`.
+Open `output/table_repair/index.html` to review. Rerunning skips completed pages
+with matching source hashes and settings, and retries failed pages. Tables the
+old detector missed are not selected.
+
+Transient HTTP failures are retried up to three attempts. An isolated failed page
+is recorded and the batch continues; an unavailable server or three consecutive
+failed pages stops the run. The final message and `output/table_repair/run-summary.json`
+report how many selected pages actually completed. Rerun the same command to resume.
+
+Use `python scripts/2_prepare_table_repairs.py 12012 Luna16B1` for particular PDFs,
+or append `--dry-run` to see the selected page count without inference. Grid checks
+catch some structural errors; a valid grid does not establish numerical accuracy.
+
 ## Script Overview (`scripts/1_convert_pdfs.py`)
 
 - **`setup_converter()`**: Initializes the `PdfConverter` from the `marker-pdf` library. This setup is done once to improve efficiency when processing multiple files. It checks for GPU availability and prints a message indicating whether GPU or CPU will be used.
